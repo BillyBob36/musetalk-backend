@@ -1,0 +1,5 @@
+# Dépendances spécifiques pour RunPod (le reste vient de MuseTalk/requirements.txt)
+runpod==1.5.1
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
